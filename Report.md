@@ -63,7 +63,15 @@
 
 <img width="820" alt="Screen Shot 2021-12-11 at 1 20 26 AM" src="https://user-images.githubusercontent.com/58592557/145648748-94dee364-dbd7-4046-8f6a-ec58973aff8e.png">
 
-<img width="474" alt="Screen Shot 2021-12-08 at 10 26 34 PM" src="https://user-images.githubusercontent.com/58592557/145648877-e57e6d2c-3987-4649-895e-6664db9031c1.png">
+<img width="522" alt="Screen Shot 2021-12-11 at 5 58 25 PM" src="https://user-images.githubusercontent.com/58592557/145681178-9e810eda-ee35-48c3-a756-ec29532c79e2.png">
 
-<img width="228" alt="Screen Shot 2021-12-11 at 1 29 37 AM" src="https://user-images.githubusercontent.com/58592557/145650401-93763ae1-c092-4100-9142-80e0ad816ee6.png">
+<img width="327" alt="Screen Shot 2021-12-11 at 5 53 20 PM" src="https://user-images.githubusercontent.com/58592557/145681186-6800dfb4-ec3f-4724-ac67-a3a321af5e8d.png">
+
+<img width="483" alt="Screen Shot 2021-12-11 at 5 54 27 PM" src="https://user-images.githubusercontent.com/58592557/145681201-706552f3-75b8-452e-8d0e-8b048dd49f11.png">
+
+<img width="534" alt="Screen Shot 2021-12-11 at 5 53 49 PM" src="https://user-images.githubusercontent.com/58592557/145681209-fc0b2148-6afe-4706-9dbc-6b003763c895.png">
+
+<img width="756" alt="Screen Shot 2021-12-11 at 5 54 54 PM" src="https://user-images.githubusercontent.com/58592557/145681215-d39d3f11-45c0-44f1-9636-4c5b3305fa48.png">
+
+
 
